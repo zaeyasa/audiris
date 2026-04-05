@@ -25,5 +25,5 @@ This repository serves as the official landing page and issue tracker for Audiri
 ---
 
 <p align="center">
-  <img src="path/to/audiris-wide-logo.png" alt="Audiris Wide Logo" width="100%">
+  <img src="./audiris-wide-logo.png" alt="Audiris Wide Logo" width="100%">
 </p>
