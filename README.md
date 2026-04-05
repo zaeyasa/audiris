@@ -21,3 +21,9 @@ This repository serves as the official landing page and issue tracker for Audiri
 * **Customizable Parameters:** Dynamic control over shapes, color palettes, and reactivity.
 
 *Audiris is currently an in-house tool and not available for public download. Stay tuned for future updates regarding a potential public release.*
+
+---
+
+<p align="center">
+  <img src="path/to/audiris_wide_logo.png" alt="Audiris Wide Logo" width="100%">
+</p>
