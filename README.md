@@ -1,8 +1,16 @@
 # Audiris
 
 > **High-Fidelity Audio Visualization Engine (Rust & Tauri)**
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-%232B6514.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-<img width="2060" height="2060" alt="logo" src="https://github.com/user-attachments/assets/71c296b8-cd7d-4124-8482-8b04c2e120e7" />
+
+<img width="2060" height="1087" alt="logo_readme-use" src="https://github.com/user-attachments/assets/b9fabb03-cc23-4375-a8d1-7e737e955e1e" />
+
 
 Audiris is a proprietary, high-performance desktop engine built to render audio frequencies into dynamic, frame-perfect visual experiences. 
 
