@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-%232B6514.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-
+---
 
 Audiris is a proprietary, high-performance desktop engine built to render audio frequencies into dynamic, frame-perfect visual experiences. 
 
