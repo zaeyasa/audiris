@@ -1,4 +1,3 @@
-[Audiris_README.md](https://github.com/user-attachments/files/26488479/Audiris_README.md)
 # Audiris
 
 <img width="2060" height="2060" alt="logo" src="https://github.com/user-attachments/assets/71c296b8-cd7d-4124-8482-8b04c2e120e7" />
